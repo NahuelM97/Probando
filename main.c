@@ -1,3 +1,4 @@
+
 int main(String args[])
 {
   int num;
@@ -5,5 +6,4 @@ int main(String args[])
   scanf("%d",&num);
   printf("Vos ingresaste %d",num);
   
-  return true;
-}
+  return num;
