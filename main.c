@@ -4,6 +4,6 @@ void main(String args[])
   printf("Ingresate un numerito wachom");
   scanf("%d",&num);
   printf("Vos ingresaste %d",num);
-  
+ee  
   return num;
 }
